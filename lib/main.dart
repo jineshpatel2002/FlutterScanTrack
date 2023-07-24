@@ -407,9 +407,9 @@ class _HomePageState extends State<HomePage> {
 
   // void twilioinit(){
   //   twilioFlutter = TwilioFlutter(
-  //       accountSid: 'ACdbe7cc151e6b5b60f8e7556fc55d3269',
-  //       authToken: '55c68ba48ae12157e6e3dc6b415f5027',
-  //       twilioNumber: '+15416923163');
+  //       accountSid: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+  //       authToken: 'YYYYYYYYYYYYYYYYYYYYYYYYYYYY',
+  //       twilioNumber: '+9999999999999999999999');
   // }
   //
   //
